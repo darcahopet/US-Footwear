@@ -90,4 +90,6 @@ ORDER BY total_duties DESC;
 
 **Live dashboard:** https://public.tableau.com/views/USimportsoffootwearontheworld/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
+**Kaggle notebook:** https://www.kaggle.com/code/darlyncampos/us-footwear-trade-analysis-duties-fta-savings 
+
 **Takeaways:** This project highlights savings opportunities that U.S. importers are not taking advantage of. It also shows potential for supply diversification beyond China, using countries that already have FTAs in place. The world map makes it easy to spot both the duty burden and the untapped opportunities at a glance. 
