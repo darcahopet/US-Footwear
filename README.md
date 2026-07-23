@@ -18,8 +18,8 @@ Analysis of U.S. 2024 footwear imports around the world, finding opportunities t
 
 ## Key findings
 
-1. **Non-FTA countries dominate the duty burden** — $3.341M across 130+ countries, versus 5.449K combined among 20 FTA partners. China alone accounts for $1.280M.
-2. **USMCA has the largest single recovery opportunity** — $2.960K in duties paid by Mexico- and Canada-origin goods that could potentially be recovered with proper rules-of-origin documentation.
+1. **Non-FTA countries dominate the duty burden** — $3.34B across 130+ countries, versus $5.45M combined among 20 FTA partners. China alone accounts for $1.28M.
+2. **USMCA has the largest single recovery opportunity** — $2.96M in duties paid by Mexico- and Canada-origin goods that could potentially be recovered with proper rules-of-origin documentation.
 3. **CAFTA-DR is underutilized** — 6 countries still paying $912K despite duty-free eligibility.
 4. **Dutiable-weighted effective duty rate: 12.8%** across HTS Chapter 64.
 
